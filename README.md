@@ -1,1 +1,5 @@
-# requrements.txt
+streamlit
+scipy
+sympy
+matplotlib
+numpy
